@@ -19,3 +19,30 @@ TBA
 ## Analysis
 
 For code to reproduce the paper visuals and downstream data outputs, please reach out to the authors.
+
+## Citations
+
+If you use our models or data, please use the following citation:
+
+```
+@inproceedings{brunila-etal-2023-toward,
+    title = "Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study of Airbnb in {N}ew {Y}ork City",
+    author = "Brunila, Mikael  and
+      LaViolette, Jack  and
+      CH-Wang, Sky  and
+      Verma, Priyanka  and
+      F{\'e}r{\'e}, Clara  and
+      McKenzie, Grant",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.284",
+    pages = "4676--4695",
+    abstract = "Critical toponymy examines the dynamics of power, capital, and resistance through place names and the sites to which they refer. Studies here have traditionally focused on the semantic content of toponyms and the top-down institutional processes that produce them. However, they have generally ignored the ways in which toponyms are used by ordinary people in everyday discourse, as well as the other strategies of geospatial description that accompany and contextualize toponymic reference. Here, we develop computational methods to measure how cultural and economic capital shape the ways in which people refer to places, through a novel annotated dataset of 47,440 New York City Airbnb listings from the 2010s. Building on this dataset, we introduce a new named entity recognition (NER) model able to identify important discourse categories integral to the characterization of place. Our findings point toward new directions for critical toponymy and to a range of previously understudied linguistic signals relevant to research on neighborhood status, housing and tourism markets, and gentrification.",
+}
+```
