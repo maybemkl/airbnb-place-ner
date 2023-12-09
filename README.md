@@ -10,7 +10,7 @@ To train a model from scratch, simply run:
 python py/fit.py <MODEL_TYPE>
 ```
 
-where `MODEL_TYPE` can either be `linear`, `crf` or `bilstm-crf`. The `.json` files in `data` contain the training, testing, and validation data, while the corresponding subfolders have the data preprocessed with the [`datasets`](https://huggingface.co/docs/datasets/index) library.
+where `MODEL_TYPE` can either be `linear`, `crf` or `bilstm-crf`. The `.json` files in `data` contain the training, testing, and validation data, while the corresponding subfolders have the data preprocessed with the [`datasets`](https://huggingface.co/docs/datasets/index) library. `fit.py` requires the data in the latter format, but we are also providing the raw `.json` files to make the data more accessible and easy to use in other frameworks.
 
 ## Processing
 
