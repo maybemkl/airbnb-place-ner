@@ -18,4 +18,4 @@ TBA
 
 ## Analysis
 
-For code to produce the paper visuals and outputs, please reach out to the authors.
+For code to reproduce the paper visuals and downstream data outputs, please reach out to the authors.
