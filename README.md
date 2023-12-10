@@ -20,7 +20,7 @@ TBA
 
 ## Analysis
 
-For code to reproduce the paper visuals and downstream data outputs (such as the image above), please reach out to the [first author](https://github.com/maybemkl).
+For code to reproduce downstream data outputs and visuals of the paper (such as the image above and the corresponding data), please reach out to the [first author](https://github.com/maybemkl).
 
 ## Citation
 
